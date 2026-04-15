@@ -1,0 +1,9 @@
+1. Crie um programa que leia 5 números inteiros e armazene em um vetor. Depois, exiba todos os números.
+
+2. Faça um programa que leia 10 números e calcule a média deles usando vetor.
+
+3. Crie um programa que leia 5 nomes e exiba-os em ordem inversa.
+
+4. Escreva um programa que leia 10 números e exiba apenas os números maiores que 50.
+
+5. Crie um programa que leia 5 notas de alunos, armazene em um vetor e exiba a maior nota.

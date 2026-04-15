@@ -1,0 +1,9 @@
+1. Escreva um programa que leia um número e verifique se ele é positivo, negativo ou zero (if else if).
+
+2. Crie um programa que leia a idade de uma pessoa e informe se ela é criança, adolescente, adulto ou idoso.
+
+3. Faça um programa que leia três números e mostre o maior deles (if else).
+
+4. Crie um programa que leia um número inteiro e use switch case para exibir o dia da semana correspondente (1 = Domingo, 2 = Segunda...).
+
+5. Escreva um programa que leia a nota de um aluno e informe se ele está aprovado, em recuperação ou reprovado.

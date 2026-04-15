@@ -1,0 +1,19 @@
+1. Crie um programa que utilize um ArrayList<String> para armazenar nomes digitados pelo usuário e depois exiba todos os nomes.
+
+2. Faça um programa que leia vários números inteiros e armazene em um ArrayList<Integer>. Depois, exiba apenas os números pares.
+
+3. Crie um programa que leia nomes de alunos e armazene em um ArrayList. Em seguida, peça ao usuário um nome e verifique se ele está na lista.
+
+4. Escreva um programa que leia preços de produtos e armazene em um ArrayList<Double>. Depois, calcule e exiba a média dos preços.
+
+5. Crie um programa que leia 5 nomes e armazene em um ArrayList. Em seguida, exiba os nomes em ordem inversa.
+
+6. Faça um programa que leia números inteiros e armazene em um ArrayList. Depois, remova todos os números menores que 10.
+
+7. Crie um programa que leia nomes de cidades e armazene em um ArrayList. Em seguida, ordene a lista em ordem alfabética e exiba.
+
+8. Escreva um programa que leia notas de alunos e armazene em um ArrayList<Double>. Depois, exiba a maior e a menor nota.
+
+9. Crie um programa que leia nomes de funcionários e armazene em um ArrayList. Em seguida, peça ao usuário um nome e remova-o da lista.
+
+10. Faça um programa que leia números inteiros e armazene em um ArrayList. Depois, exiba apenas os números que aparecem mais de uma vez.

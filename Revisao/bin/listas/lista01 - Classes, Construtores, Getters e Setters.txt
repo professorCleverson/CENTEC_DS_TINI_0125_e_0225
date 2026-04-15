@@ -1,0 +1,9 @@
+1. Crie uma classe Pessoa com atributos nome e idade. Implemente construtor, getters e setters.
+
+2. Crie uma classe Carro com atributos marca, modelo e ano. Adicione métodos para exibir informações do carro.
+
+3. Crie uma classe Aluno com atributos nome e nota. Implemente um método que retorna se o aluno está aprovado (nota ≥ 7).
+
+4. Crie uma classe ContaBancaria com atributos titular e saldo. Adicione métodos depositar e sacar.
+
+5. Crie uma classe Produto com atributos nome e preco. Adicione um método que aplica desconto ao preço.
